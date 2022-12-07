@@ -1,12 +1,20 @@
 <div align="center">
-<img src="https://media1.tenor.com/images/1df60738e004df5bdeade02da38a2533/tenor.gif?itemid=8172338" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+  |
+  |
+|
+|
+ |
+ |
+ 
   
+  
+ <img src="https://media1.tenor.com/images/1df60738e004df5bdeade02da38a2533/tenor.gif?itemid=8172338" align="center" style="width: 100%" />
 
 ### *<div align="center"> hello there I'm (A.az)✔️</div>*  
   
-
--   
+   
   
 
 - 🌱 im still learn  
